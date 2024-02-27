@@ -133,4 +133,3 @@ import {
       type: DELETE_DOG_ID,
     };
   };
-  

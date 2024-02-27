@@ -7,5 +7,3 @@ export const store = createStore(
     reducer,
     composeWithDevTools(applyMiddleware(thunkMiddleware))
 );
-
-

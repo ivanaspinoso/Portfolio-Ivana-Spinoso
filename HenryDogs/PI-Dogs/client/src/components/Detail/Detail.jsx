@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { getById, deleteDogId } from "../../redux/actions/actions";
+import { getById, deleteDogId } from "../../redux/actions/Actions";
 import { useDispatch, useSelector } from "react-redux";
 import style from "./Detail.module.css";
 

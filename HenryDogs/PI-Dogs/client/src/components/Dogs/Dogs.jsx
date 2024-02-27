@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { deleteDog } from "../../redux/actions/actions";
 import { useState, useEffect } from "react";
 import { useDispatch } from "react-redux";
 import styles from "../Dogs/Dogs.module.css";
+import { deleteDog } from "../../redux/actions/Actions";
 
 const Dogs = ({ id, name, weight, height, image, temperaments, temperament, createInDb }) => {
   const [, setDeleted] = useState(false);

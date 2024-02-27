@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { postDog, getTemperaments } from "../../redux/actions/actions";
+import { postDog, getTemperaments } from "../../redux/actions/Actions";
 import { validate } from "../../Extras/validate";
 import styles from "../Form/Form.module.css";
 
