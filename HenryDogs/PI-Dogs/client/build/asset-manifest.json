@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8427e47.css",
+    "main.js": "/static/js/main.395abee8.js",
+    "static/media/dog-form.png": "/static/media/dog-form.c5a03d5aa862977eb5a3.png",
+    "static/media/background.png": "/static/media/background.a1e5936939f7f0fb70d8.png",
+    "static/media/dog-landing.png": "/static/media/dog-landing.ce2965c787b62d4f9524.png",
+    "index.html": "/index.html",
+    "main.a8427e47.css.map": "/static/css/main.a8427e47.css.map",
+    "main.395abee8.js.map": "/static/js/main.395abee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8427e47.css",
+    "static/js/main.395abee8.js"
+  ]
+}
