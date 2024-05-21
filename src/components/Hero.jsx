@@ -30,7 +30,7 @@ const Hero = ()=>{
                 </div>
                 <div className="w-full lg:w-1/2 lg:p-8">
                     <div className="flex justify-center ">
-                        <motion.img initial={{x: 100, opacity: 0}} animate={{x: 0, opacity:1}} transition={{duration:1, delay: 1.2}} className="rounded-full  border-white w-500 h-500" src={yo} alt="perfil" />
+                        <motion.img initial={{x: 100, opacity: 0}} animate={{x: 0, opacity:1}} transition={{duration:1, delay: 1.2}} className="rounded-full  border-white lg:w-500 lg:h-500 object-cover max-w-full h-auto" src={yo} alt="perfil" />
 
                     </div>
                 </div>
