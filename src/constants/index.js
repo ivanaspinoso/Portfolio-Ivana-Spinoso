@@ -33,6 +33,7 @@ export const PROJECTS = [
     description:
       "PinkPanther Indumentaria es una aplicación que permite al usuario buscar ropa, ver detalles,poder comprar implementando pasarelas de pago (Mercado pago), y dejar reseñas. Además de esto se implementaron diversos roles de usuario, para el administrador y para clientes , y su autenticación utilizando Firebase.",
     technologies: ["React", "Redux", "TailwindCSS", "Node.js", "Express", "Firebase", "PostgreSQL", "Sequelize"],
+    link: "https://pinkpantherfront.vercel.app/"
   },
   {
     title: "Drivers App",
@@ -40,6 +41,7 @@ export const PROJECTS = [
     description:
       "Aplicación que tenía como objetivo la construcción de una Single Page Application con funcionalidades de búsqueda,filtrados, ordenamiento y creación para gestionar datos de conductores de manera eficiente.",
     technologies: ["React", "Redux", "Axios", "Sequelize", "PostgreSQL", "Express"],
+    link: "https://github.com/ivanaspinoso/cr-pi-drivers-main"
   },
   {
     title: "Portfolio Diseño UX UI",
@@ -47,6 +49,7 @@ export const PROJECTS = [
     description:
       "Portfolio personal de diseño UX UI mostrando los proyectos, mis habilidades, y contacto.",
     technologies: ["Figma"],
+    link: "https://www.figma.com/proto/5AeGqZ7SnaTeevyNXxQh9n/Portfolio?node-id=1-2&starting-point-node-id=1%3A2&scaling=scale-down"
   },
   
   
